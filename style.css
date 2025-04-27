@@ -1,0 +1,89 @@
+
+
+header {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white
+}
+
+footer {
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    top: 94%;
+    left: 38%;
+}
+
+h1 {
+    color: white;
+    position: fixed;
+    top: 2%;
+    left: 39%;
+}
+
+h3 {
+    position: fixed;
+    top: 18%;
+    left: 1%;
+}
+
+body {
+    background-color: rgba(83, 0, 109, 0.747)
+}
+
+div {
+    position: absolute;
+    top: 1;
+    left: 3%;
+}
+
+nav {
+    position: absolute;
+    top: 15%;
+    left: 90%;
+}
+
+a {
+    color: rgb(0, 255, 115);
+}
+
+#Copy {
+    color: white;
+    text-align: center;
+}
+
+#id4nwz {
+    position: fixed;
+    top: 25%;
+    left: 1%;
+}
+
+#uva {
+    position: fixed;
+    width: 8%;
+}
+
+#BD4 {
+    position: fixed;
+    top: 12%;
+    left: 42%;
+}
+
+.Discord {
+    position: fixed;
+    top: 14%;
+    left: 15%;
+}
+
+.Inicio {
+    position: fixed;
+    top: 10%;
+    left: 15%;
+}
